@@ -5,7 +5,7 @@
 
 This is a responsive Calculator for performing arithmetic operations designed dynamically using JavaScript and DOM manipulation.
 
-**Note:** Only numeric key inputs can be entered from keyboard.
+> **Note:** Only numeric key inputs are allowed to enter from the keyboard.
 
 ## Concepts
 
